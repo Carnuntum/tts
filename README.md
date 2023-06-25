@@ -4,7 +4,7 @@ Some wrapper functions for the coqui tts package to convert a given number of pa
 <br><br>
 Requirements: <br>
 - python tts package (pip install tts or see documentation for coqui TTS)
-- for cuda a feasable gpu
+- for cuda a feasable gpu and installed cuda framework (see respective documentation)
 - ffmpeg
 
 For different tts/vocoder models see the documentation for coqui TTS.
