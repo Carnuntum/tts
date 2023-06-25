@@ -6,3 +6,5 @@ Requirements: <br>
 - python tts package (pip install tts or see documentation for coqui TTS)
 - for cuda a feasable gpu
 - ffmpeg
+
+For different tts/vocoder models see the documentation for coqui TTS.
